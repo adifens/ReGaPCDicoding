@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rekomendasi Game PC</string>
+    <string name="nama">Nama Game</string>
+    <string name="deskripsi">Deskripsi Game PC</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+</resources>
